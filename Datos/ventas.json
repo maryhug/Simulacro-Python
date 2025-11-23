@@ -1,0 +1,26 @@
+[
+    {
+        "cliente": "maryhug",
+        "tipo_cliente": "mayorista",
+        "codigo_producto": "P003",
+        "nombre_producto": "Audífonos Sony",
+        "marca": "Sony",
+        "cantidad": 25,
+        "precio_unitario": 149.0,
+        "porcentaje_descuento": 15,
+        "total": 3166.25,
+        "fecha": "2025-11-23 15:39:43"
+    },
+    {
+        "cliente": "HUGO",
+        "tipo_cliente": "vip",
+        "codigo_producto": "P006",
+        "nombre_producto": "Phone",
+        "marca": "Dell",
+        "cantidad": 8,
+        "precio_unitario": 60222.0,
+        "porcentaje_descuento": 10,
+        "total": 433598.4,
+        "fecha": "2025-11-23 15:41:20"
+    }
+]

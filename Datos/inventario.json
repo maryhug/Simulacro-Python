@@ -1,0 +1,42 @@
+{
+    "P001": {
+        "nombre": "Laptop HP",
+        "marca": "HP",
+        "categoria": "Computadoras",
+        "precio": 983999.0,
+        "stock": 48,
+        "garantia": 12
+    },
+    "P003": {
+        "nombre": "Audífonos Sony",
+        "marca": "Sony",
+        "categoria": "Audio",
+        "precio": 149.0,
+        "stock": 15,
+        "garantia": 6
+    },
+    "P004": {
+        "nombre": "Smart TV LG",
+        "marca": "LG",
+        "categoria": "Televisores",
+        "precio": 1200.0,
+        "stock": 10,
+        "garantia": 18
+    },
+    "P005": {
+        "nombre": "iPad Apple",
+        "marca": "Apple",
+        "categoria": "Tabletas",
+        "precio": 499.0,
+        "stock": 20,
+        "garantia": 12
+    },
+    "P006": {
+        "nombre": "Phone",
+        "marca": "Dell",
+        "categoria": "Electronico",
+        "precio": 60222.0,
+        "stock": 10,
+        "garantia": 9
+    }
+}
